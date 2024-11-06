@@ -1,1 +1,1 @@
-Deposited image analysis pipelines and models supporting donut shaped nuclei quantification and identification in CellPofiler and CellProfiler Analyst.
+Deposited image analysis pipelines and models for quantification and identification of donut-shaped nuclei in CellProfiler and CellProfiler Analyst.
